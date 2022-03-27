@@ -8,5 +8,5 @@ package com.msn.test;
  */
 public class test2 {
     String age ;
-
+    String name ;
 }
