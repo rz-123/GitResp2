@@ -7,5 +7,6 @@ package com.msn.test;
  * @version: 1.0
  */
 public class test1 {
-
+    String name ;
+    int age ;
 }
